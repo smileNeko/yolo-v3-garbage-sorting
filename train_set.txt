@@ -1,0 +1,977 @@
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000010.jpg 632,987,1132,1361,0 632,989,676,1040,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000019.jpg 209,920,663,1482,0 1212,822,1391,1268,0 634,1442,663,1481,1 589,548,930,953,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000026.jpg 556,944,1046,1280,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000047.jpg 189,903,394,1129,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000001.jpg 826,744,1290,949,0 1254,777,1290,824,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000005.jpg 824,557,913,793,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000012.jpg 904,1083,941,1109,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000048.jpg 579,521,901,1442,0 1677,460,1888,558,1 1325,663,1480,778,1 969,636,1115,760,1 610,521,795,618,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000053.jpg 398,410,1532,1408,0 1336,410,1532,620,1 0,1,338,665,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000058.jpg 971,405,1267,596,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000032.jpg 503,808,948,1165,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000049.jpg 399,502,882,1243,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000054.jpg 1263,202,1536,504,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000021.jpg 256,705,934,1122,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000022.jpg 313,1400,727,1535,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000023.jpg 372,1441,665,1662,0 1015,979,1205,1193,2 904,1493,1072,1659,2 683,1550,904,1653,2 1043,792,1187,956,2 371,1437,402,1486,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000024.jpg 218,1457,491,1730,2 634,860,861,1092,2 463,1112,589,1274,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000027.jpg 668,717,1123,1372,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000028.jpg 454,1437,490,1539,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000030.jpg 604,1052,791,1372,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000031.jpg 470,1040,883,1361,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000050.jpg 642,854,1475,1658,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000000.jpg 710,1225,863,1423,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000025.jpg 323,1055,810,1407,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000029.jpg 652,874,1077,1563,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000068.JPG 170,1508,256,1662,7 130,1348,208,1446,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000069.JPG 1050,1654,1460,2007,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000070.JPG 1038,1111,1293,1748,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000072.JPG 968,2492,1106,2618,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000073.JPG 940,837,1432,1548,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000074.JPG 1776,1222,1814,1232,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000076.JPG 548,1836,600,1888,7 368,1658,424,1716,7 302,1634,378,1714,7 54,1340,114,1402,7 1180,876,1254,946,7 1026,1004,1096,1074,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000081.JPG 749,1972,1193,2256,0 1135,1972,1192,2063,1 1388,2610,1452,2706,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000084.JPG 1090,411,1260,559,2 1905,284,2051,435,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000085.JPG 1338,1236,1412,1282,7 1536,1146,1654,1178,7 1590,1214,1714,1300,7 1676,1424,1710,1526,7 1710,1472,1814,1512,7 1854,1278,1882,1360,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000086.JPG 740,540,862,602,7 1396,1630,1520,1716,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000087.JPG 148,816,208,888,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000092.JPG 1535,926,2149,1451,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000094.JPG 311,729,1818,2468,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000062.JPG 870,673,1490,1059,2 1447,829,2050,1490,2 657,1036,1492,1397,0 0,2135,440,2880,5 1963,405,2044,452,5 524,1487,1402,2914,4 625,2233,1028,2694,4 1904,49,2084,197,4 657,1217,737,1377,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000098.JPG 571,985,1018,1799,0 1751,2342,1925,2432,5 797,985,893,1038,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000102.JPG 1097,222,1203,292,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000105.JPG 848,1113,1947,2531,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000106.JPG 2112,2439,2448,2668,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000107.JPG 2039,1606,2399,2142,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000108.JPG 1296,1512,1380,1628,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000110.JPG 676,546,888,838,5 779,2933,1019,3049,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000111.JPG 844,2332,1101,2628,2 434,1871,621,2152,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000115.JPG 361,520,1059,851,0 993,520,1058,617,1 2278,759,2735,972,2 2728,797,2859,881,6 2803,116,2905,229,6 474,496,564,540,7 898,346,936,364,7 248,84,312,112,7 700,1560,758,1594,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000117.JPG 2195,538,2265,606,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000121.JPG 728,2087,920,2291,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000004.jpg 649,55,742,143,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000127.JPG 0,702,877,2103,4 200,1601,2448,3264,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_1_000128.JPG 1102,861,1713,1200,2 953,2663,1126,2874,1 0,2601,868,3218,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000000.jpg 1370,1291,1750,1441,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000003.jpg 1,238,99,323,4 516,377,764,555,0 665,313,910,504,0 488,340,626,428,4 399,156,477,226,4 749,607,815,676,5 1619,751,1707,863,6 2042,585,2329,730,4 2902,234,3102,445,4 1228,371,1397,520,6 1323,585,1420,664,6 211,202,408,311,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000004.jpg 959,2301,1446,2570,4 1334,2600,1421,2675,6 981,3636,1377,3826,6 1657,3383,1778,3472,4 694,3091,781,3202,6 1589,2445,1823,2683,6 1778,3419,1820,3567,6 1383,2242,1711,2353,6 1344,1858,1432,1933,4 1655,2052,1747,2133,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000005.jpg 1089,1551,1529,2112,4 1139,3035,1708,3257,0 405,3679,644,3916,4 2,3586,101,3829,4 256,2220,688,2803,5 544,750,681,930,3 918,2546,989,2607,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000006.jpg 1510,730,1634,907,3 1757,2179,1819,2320,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000007.jpg 2,146,174,210,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000008.jpg 404,1894,684,2488,4 509,894,732,1172,4 1003,-1,1790,410,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000010.jpg 333,1068,354,1111,6 2859,1447,2939,1505,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000011.jpg 1408,-1,1777,470,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000012.jpg 1429,2413,1620,2551,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000015.jpg 1189,1508,1233,1545,2 1252,1523,1300,1549,2 420,2498,515,2593,0 888,3115,980,3247,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000016.jpg 2515,1272,2757,1532,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000017.jpg 2567,868,2637,1103,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000020.jpg 394,2220,516,2332,4 726,2346,778,2363,7 761,2506,791,2551,7 448,2372,472,2407,7 1037,2632,1104,2711,7 1016,2717,1052,2771,7 1090,2680,1152,2701,7 1213,3182,1248,3240,7 1378,3225,1408,3273,7 1230,2296,1290,2324,7 186,2176,241,2214,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000021.jpg 2929,1257,2968,1296,7 3569,1200,3625,1231,7 1305,1666,1369,1688,7 1387,1225,1447,1244,7 621,1646,676,1669,7 3549,1144,3585,1186,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000022.jpg 729,1122,1175,1470,4 786,1979,864,2028,7 1669,2428,1708,2486,7 389,3755,571,3980,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000023.jpg 583,1544,714,1597,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000025.jpg 1151,2356,1408,2547,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000027.jpg 1597,1986,1650,2008,7 1352,1847,1417,1923,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000028.jpg 401,1843,488,1866,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000029.jpg 539,1928,1142,2489,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000031.jpg 482,1872,523,1896,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000032.jpg 557,2351,650,2457,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000033.jpg 511,3605,618,3659,6 1471,2722,1545,2823,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000034.jpg 819,1822,1020,1916,2 980,1949,996,1993,7 1182,1890,1226,1926,7 472,2267,496,2319,7 655,2452,710,2494,7 670,2474,707,2503,7 328,2886,420,2918,7 388,2822,427,2881,7 199,3131,240,3207,7 614,3771,695,3834,7 1233,3719,1290,3779,7 451,2269,473,2307,7 1034,1834,1063,1873,7 1137,1569,1157,1593,7 1153,308,1179,321,6 1685,3759,1761,3903,6 933,3137,996,3250,6 110,2876,187,2975,6 373,2951,489,3021,6 19,3046,64,3091,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000035.jpg 806,1933,992,2027,2 1108,1867,1171,1899,7 868,1930,913,1962,7 898,1933,927,1960,7 944,1927,977,1939,7 656,2130,697,2163,7 694,2014,714,2054,7 453,2191,479,2235,7 526,2174,563,2216,7 236,2428,273,2475,7 106,2547,131,2590,7 290,2245,346,2278,7 70,2225,333,2572,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000037.jpg 968,274,981,297,7 2206,1089,2219,1109,7 3032,1734,3080,1778,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000038.jpg 795,2756,926,2951,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000039.jpg 1032,1712,1159,1829,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000040.jpg 1707,942,1769,1015,6 1297,616,1552,893,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000041.jpg 1628,1581,1659,1625,7 1242,2350,1606,2784,4 703,2790,871,2946,4 1447,1792,1598,1968,4 1235,1858,1528,2048,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000042.jpg 745,1450,1295,2265,4 1696,2654,1802,2733,4 1450,2536,1570,2626,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000043.jpg 544,315,602,335,7 1021,253,1049,340,7 1363,447,1392,523,7 1391,525,1447,552,4 725,1735,844,1877,4 382,2733,628,3010,4 1341,3659,1487,3821,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000045.jpg 1257,2007,1290,2035,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000047.jpg 736,1829,899,1975,0 554,1441,614,1475,6 457,1585,511,1608,6 1524,454,1546,475,6 1252,883,1317,910,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000049.jpg 955,1790,1038,1873,5 1309,1455,1327,1522,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000050.jpg 3544,1,3786,169,4 3389,230,3445,280,6 3114,748,3250,826,6 1666,722,2073,1115,6 1805,644,1867,671,4 1455,718,1598,888,4 939,947,1355,1432,6 1967,1167,2043,1217,6 2102,1213,2153,1269,4 3628,1610,3995,1763,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000052.jpg 1485,773,1642,874,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000053.jpg 690,716,962,1020,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000054.jpg 1075,2537,1232,2630,4 331,824,348,849,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000055.jpg 1323,959,1619,1275,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000056.jpg 1978,615,2115,783,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000057.jpg 846,2573,1427,3082,4 73,2633,137,2708,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000058.jpg 1201,1805,1539,2119,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000059.jpg 1328,2235,1535,2502,4 1022,3354,1078,3499,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000062.jpg 1367,236,1582,485,4 1366,547,1484,605,6 2286,363,2517,592,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000063.jpg 1373,834,1776,1012,4 1772,646,2046,1034,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000065.jpg 782,1680,1280,1805,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000066.jpg 2109,701,2599,1020,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000070.jpg 990,628,1100,709,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000071.jpg 418,1362,726,1412,3 1646,1306,1681,1331,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000072.jpg 1643,338,1762,411,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000073.jpg 2312,1038,2562,1148,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000074.jpg 1281,1393,1469,1648,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000075.jpg 913,1658,961,1720,0 941,1678,982,1721,0 1,3464,72,3495,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000077.jpg 364,586,412,647,7 1092,2473,1326,2617,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000078.jpg 956,2361,1143,2497,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000079.jpg 795,340,1000,520,6 2500,484,2633,634,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000081.jpg 1807,673,2148,836,0 2181,665,2248,698,6 2220,162,2264,189,7 1202,409,1247,426,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000082.jpg 1890,734,2046,983,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000083.jpg 271,2063,313,2082,7 452,2133,488,2159,7 1641,2713,1694,2742,7 341,2070,375,2088,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000084.jpg 632,1597,1026,1914,3 1058,1923,1098,1966,6 1330,3145,1377,3213,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000086.jpg 814,1698,1190,1964,5 1357,2268,1412,2301,7 957,990,1015,1030,7 574,854,599,882,6 466,1563,504,1609,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000087.jpg 342,836,680,995,0 1113,1046,1138,1057,7 1017,1360,1047,1371,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000089.jpg 1036,1615,1092,1656,6 810,1751,944,1846,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000090.jpg 1143,1904,1317,2016,4 1483,1994,1581,2050,6 936,2456,1011,2507,6 1739,3332,1822,3518,6 1720,3479,1813,3515,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000091.jpg 3098,1683,3160,1767,6 2480,1757,2584,1818,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000093.jpg 983,1369,1255,1486,5 1152,1712,1350,1823,6 623,1399,663,1518,6 2236,1662,2347,1756,6 2868,395,2941,467,6 1626,1079,1704,1181,6 2687,1411,2797,1462,6 61,1221,241,1280,6 3045,1329,3083,1364,7 3280,1147,3375,1230,6 2128,1295,2296,1393,4 2733,1456,2809,1527,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000094.jpg 795,2222,870,2367,6 1436,3667,1534,3824,6 963,3256,1109,3319,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000096.jpg 1355,1663,1420,1689,7 2231,2438,2289,2473,7 377,1258,551,1367,6 859,1604,942,1670,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_10_000099.jpg 784,2015,1266,2400,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000018.jpg 680,979,1236,1764,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000019.jpg 2687,1925,2752,2025,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000023.jpg 2258,1709,2770,2046,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000024.jpg 3103,1832,3450,2081,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000026.jpg 2459,1427,3456,2484,0 3171,2211,3457,2485,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000028.jpg 1209,2285,1495,2580,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000029.jpg 873,2072,1427,2390,3 1047,2269,1410,2619,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000030.jpg 1080,2426,1668,2666,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000032.jpg 1058,1104,1535,1809,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000039.jpg 1135,494,1422,661,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000040.jpg 636,1805,1205,2210,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000041.jpg 1374,2107,1705,2516,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000043.jpg 1490,2290,1847,2651,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000044.jpg 906,2117,1234,2381,4 1321,1854,1718,2113,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000045.jpg 1302,1804,1665,2216,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000046.jpg 1736,1128,1973,1474,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000047.jpg 1132,1990,1643,2734,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000048.jpg 715,1961,1811,2626,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000049.jpg 1214,1935,1770,2498,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000050.jpg 267,391,1129,1532,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000051.jpg 1246,936,1886,1645,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000053.jpg 891,1040,1719,2014,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000056.jpg 918,1889,2122,2736,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000058.jpg 1026,2132,1960,2973,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000059.jpg 811,1482,1152,1784,6 2096,1643,2243,1889,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000060.jpg 1752,1037,1863,1106,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000061.jpg 907,1632,2033,2781,4 2621,635,3019,993,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000063.jpg 913,2992,1097,3176,4 1549,1352,1667,1544,4 933,1099,1056,1188,4 1272,169,1420,229,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000064.jpg 797,729,2044,2944,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000069.jpg 532,1120,1466,1575,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000070.jpg 967,1882,2116,2235,0 2068,1985,2118,2085,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000071.jpg 1627,1073,2320,2091,4 1302,1558,1364,1638,4 1645,2811,2082,3372,4 315,1583,982,1928,4 216,1789,336,1878,4 596,1836,682,1922,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000072.jpg 850,1446,1946,2797,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000073.jpg 1068,1140,2411,2363,4 1274,52,1377,102,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000074.jpg 1645,1127,3288,2370,4 3162,1038,3498,1370,4 2201,803,2520,1064,4 3007,51,3129,209,4 3268,208,3341,292,4 1565,1561,1766,1740,4 965,1737,1220,1879,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000075.jpg 1401,1686,1983,2189,0 1403,2087,1492,2189,1 2003,3400,2344,3938,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000076.jpg 1927,1461,2261,1719,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000077.jpg -1,366,197,673,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000079.jpg 211,1857,894,2212,4 1527,724,3937,2076,3 4,1551,2356,2028,3 2820,2185,3156,2424,3 3867,1515,4031,1680,3 2560,575,3047,861,3 2898,217,3426,806,3 866,414,1051,641,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000080.jpg 475,1604,993,2021,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000082.jpg 1503,1974,2064,2514,5 899,1189,2002,1981,5 1402,0,2569,246,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000083.jpg 388,854,2724,2855,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000084.jpg 565,1955,2466,2988,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000085.jpg 973,2258,1491,2769,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000086.jpg 1033,2507,1786,3231,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000087.jpg 562,1752,2053,2490,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000088.jpg 2774,1212,2833,1302,6 2866,1337,2993,1381,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000090.jpg 1249,923,2692,1581,0 279,897,407,1093,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000091.jpg 1211,1602,1392,1698,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000092.jpg 1528,954,1877,1340,5 436,1816,603,1941,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000093.jpg 1959,1227,2042,1312,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000094.jpg 801,947,2035,3636,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000095.jpg 1660,2342,2028,3313,0 1804,3246,1972,3312,1 2653,3505,2722,3662,3 2090,2760,2404,2857,4 2691,2662,2848,2872,6 2010,1749,2158,1997,6 2649,2622,2759,2692,6 2298,2454,2391,2509,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000096.jpg 926,3320,1032,3371,7 1557,3477,1635,3545,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000097.jpg 2175,752,2593,1034,6 1109,4542,1362,4617,6 2361,4681,2443,4718,6 2868,4114,2944,4163,7 2447,3061,2507,3129,7 1027,3621,1101,3657,7 2514,2689,2582,2734,7 2320,2503,2358,2568,7 60,3837,101,3913,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000098.jpg 822,1073,885,1167,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_11_000099.jpg 1483,2475,1867,2909,0 1484,2835,1558,2908,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000000.jpg 1321,2930,1601,3139,0 1550,3035,1600,3137,1 2608,197,2688,383,5 2662,721,2719,761,7 2325,253,2516,339,6 1769,1523,1999,1702,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000001.jpg 2305,3295,2987,4092,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000002.jpg 1000,1740,1718,2474,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000003.jpg 791,3003,1883,3573,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000004.jpg 1830,575,3353,1783,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000005.jpg 857,565,3148,2022,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000006.jpg 692,1196,1117,1666,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000007.jpg 492,1587,1921,3075,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000008.jpg 1007,1210,2390,3499,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000009.jpg 1691,400,2824,2028,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000010.jpg 68,810,2704,3121,4 2175,715,2829,953,4 2715,2386,2988,2767,4 1734,497,1897,727,5 2799,542,2980,858,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000012.jpg 682,1178,1960,3261,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000013.jpg 334,739,2075,2315,0 1817,739,2077,1007,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000015.jpg 1261,1011,1594,1189,7 1804,1225,2035,1442,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000018.jpg 1146,2174,1871,2693,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000019.jpg 2811,317,2986,739,4 1020,2237,1612,2779,0 1018,2237,1108,2341,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000020.jpg 1142,1985,1264,2025,7 1,1285,122,1333,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000021.jpg 1408,2531,1911,3133,0 823,3378,1042,3603,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000023.jpg 1182,2193,1776,3133,2 1006,8,1506,316,6 1985,3697,2060,3814,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000024.jpg 1208,3150,1727,3378,0 1483,2663,1554,2693,7 1670,2931,1742,2965,7 2451,2144,2517,2172,7 1894,2215,1927,2263,7 720,3381,813,3408,7 1481,4290,1544,4351,7 2827,1926,2862,1964,7 2847,1058,2881,1079,7 2805,1253,2852,1273,7 2328,1276,2368,1296,7 2366,1328,2400,1350,7 1215,1629,1267,1643,7 1300,1546,1351,1571,7 1864,1523,1915,1551,7 1760,1456,1792,1496,7 1439,1509,1456,1542,7 729,1777,775,1803,7 143,2359,185,2400,7 342,2483,375,2515,7 1084,3396,1139,3439,7 1474,3787,1533,3850,7 2158,1906,2192,1933,6 662,2820,702,2861,7 118,2243,135,2281,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000025.jpg 990,862,1487,1203,7 199,1959,414,2163,6 2865,1648,2928,1673,3 2687,2094,2746,2181,3 2698,2372,2769,2447,3 2860,2865,2985,2905,3 2910,3129,2983,3202,3 2721,3037,2803,3102,3 2638,3709,2803,3796,3 2541,4956,2582,5010,3 1587,4683,1703,4804,3 1405,4091,1417,4142,3 1494,4503,1523,4550,3 927,4686,1004,4764,3 1007,4706,1044,4790,3 140,1180,208,1273,3 103,1242,165,1355,3 2166,2560,2281,2716,3 2251,3197,2310,3322,3 2359,3077,2440,3188,3 1828,3101,1907,3226,3 1868,3305,1937,3374,3 1122,2956,1165,3045,3 1183,2363,1295,2458,3 1571,850,1687,906,3 330,2330,377,2360,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000026.jpg 999,636,1079,705,7 952,851,1006,912,7 1158,1206,1196,1284,7 1166,1380,1239,1460,7 1497,1700,1583,1793,7 1402,2290,1435,2397,7 1749,3101,1884,3157,7 1516,3359,1726,3478,7 2547,3723,2668,3883,7 775,2284,841,2372,7 688,2034,776,2096,7 1309,2904,1435,2974,6 1402,2566,1533,2637,6 1971,3875,2250,4022,7 1808,3329,1886,3464,6 1980,5141,2170,5311,7 1996,4788,2102,4917,6 1569,3151,1674,3231,6 813,563,885,582,6 1834,5208,1989,5307,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000027.jpg 165,39,226,86,7 753,3186,820,3252,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000028.jpg 1,3101,580,3558,6 1942,2824,2475,3399,5 1980,2901,2077,2965,5 1911,411,1979,512,6 1367,1130,1461,1236,6 1093,1338,1147,1391,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000029.jpg 521,2818,1250,3122,0 1208,2847,1248,2962,1 2635,4884,2933,5161,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000030.jpg 1808,1807,1994,1928,6 1195,2700,1663,3014,5 1195,2467,1394,2631,5 2149,4364,2216,4508,5 932,2479,1014,2535,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000031.jpg 1580,773,1897,1031,5 1346,2359,1660,2674,5 2164,4003,2228,4118,7 877,4276,1083,4378,5 444,362,476,414,7 799,434,873,484,5 2201,1355,2258,1442,6 2182,2221,2220,2277,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000032.jpg 1107,4875,1272,5028,7 1335,2283,1562,2715,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000033.jpg 2476,612,2747,929,5 1760,3871,2286,4269,4 1249,1897,1422,2052,1 1551,2052,1777,2299,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000034.jpg 1449,2436,1660,2768,5 1041,1894,1142,1987,3 1450,1132,1642,1338,2 909,732,1476,1251,0 1402,1138,1476,1254,1 1375,678,1995,1238,5 2243,121,2983,636,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000035.jpg 1222,2028,1482,2098,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000037.jpg 1096,1282,1569,2176,6 1611,1311,1977,2151,6 1132,2275,1453,3310,6 1614,2409,1928,3183,6 1942,2336,2532,3415,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000038.jpg 482,2051,778,2179,4 1234,2224,1561,2465,4 696,1824,890,1947,4 2288,3128,2668,3284,0 1616,2275,1678,2304,6 109,2187,177,2232,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000039.jpg 2027,575,2370,825,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000040.jpg 518,1211,2080,2648,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000042.jpg 1172,2272,1585,2707,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000043.jpg 746,2233,1014,2447,2 1404,1963,1589,2128,2 2336,1337,2476,1493,2 2016,2157,2398,2363,4 2552,1486,2795,1749,0 2750,1715,2796,1751,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000044.jpg 1275,2425,1535,2762,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000045.jpg 1377,1499,1471,1631,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000046.jpg 2356,2387,2374,2452,7 2346,1440,2412,1472,7 2213,474,2260,502,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000048.jpg 1286,1761,1820,2041,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000049.jpg 1489,2992,1607,3092,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000050.jpg 1050,35,1110,83,7 1208,107,1227,152,7 1302,330,1376,403,7 1872,139,1904,207,7 1492,442,1573,473,7 2769,497,2873,564,7 2231,601,2257,635,7 943,2528,1031,2599,7 1145,2484,1223,2566,1 1551,2099,1588,2147,3 1670,2471,1732,2536,3 479,2405,532,2425,6 787,2296,841,2398,6 847,1498,909,1555,6 751,852,834,915,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000051.jpg 2911,672,2988,744,3 342,364,430,515,7 100,1295,136,1701,7 861,2617,975,2766,7 2880,2693,2969,2878,3 2483,2049,2507,2084,3 1829,2104,1853,2139,3 1659,1839,1742,1927,3 1360,1882,1386,1910,3 1053,2756,1087,2795,3 486,2344,581,2498,3 2860,868,2907,897,3 1481,1546,1727,1744,6 374,1577,437,1715,7 646,2450,799,2547,7 879,2819,982,2880,7 2753,1702,2784,1731,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000053.jpg 204,2055,2287,3762,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000056.jpg 1169,286,2664,2206,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000057.jpg 2254,1217,2503,1390,4 2331,791,2560,995,6 2744,3150,2991,3361,6 353,951,438,1000,6 848,3785,1105,3968,4 2747,154,2780,204,7 1343,3815,1432,3936,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000058.jpg 1991,3585,2116,3730,5 1548,3791,1674,3922,5 994,3009,1138,3076,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000059.jpg 237,2277,947,2567,0 1512,491,1623,650,5 1772,634,1876,749,5 2743,2267,2803,2349,1 134,264,360,452,5 235,168,402,268,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000060.jpg 1862,785,2346,1203,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000061.jpg 2823,643,2920,698,5 2706,697,2889,781,5 2508,814,2630,932,5 2368,845,2573,1086,4 1939,1500,2089,1635,5 1852,1718,2049,1980,5 1643,1628,1978,1849,5 1885,1686,2108,1824,5 1273,1764,1562,2034,5 1210,1513,1472,1695,5 1214,1321,1423,1564,4 775,1405,1241,1820,4 518,2299,887,2648,4 582,2134,830,2332,4 822,2551,1047,2832,4 1384,2614,1792,2980,4 1294,2088,1863,2728,4 1614,1867,1755,2117,4 1808,2033,1982,2241,4 1514,1751,1648,1893,6 1443,3017,1802,3258,5 1200,2327,1419,2595,5 1331,2265,1574,2573,5 893,2254,1240,2497,5 436,2682,631,2912,5 648,3061,855,3208,4 767,3104,963,3349,5 1051,2807,1518,3203,5 680,1857,930,1975,5 692,1263,837,1352,5 463,3630,577,3748,5 1491,2397,1620,2584,5 1050,2083,1139,2173,5 942,2198,1022,2309,5 847,2322,932,2432,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000062.jpg 105,479,300,543,4 361,1378,511,1497,5 773,1724,1129,1963,4 979,1669,1655,2051,4 1552,1786,1919,2193,4 1110,2261,1785,2825,4 2798,366,3091,527,6 2208,1344,2347,1438,5 2519,1670,2581,1712,5 2780,1572,2833,1626,5 3043,1548,3099,1611,6 3427,1635,3601,1739,5 790,1568,928,1649,6 322,1790,499,1991,4 783,1989,957,2082,4 2575,2817,2903,2996,4 3474,1958,3717,2104,4 1344,1230,1418,1301,6 1542,1587,1706,1803,4 1345,1668,1491,1772,4 1608,1703,1742,1835,4 1485,1728,1591,1782,4 2236,2001,2388,2109,5 1386,1479,1460,1562,6 2439,1599,2561,1653,5 840,2300,937,2381,6 2679,2707,2746,2766,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000063.jpg 1508,3478,2053,4014,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000064.jpg 1131,2074,1702,2716,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000065.jpg 1041,2305,1711,2913,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000066.jpg 2750,576,3305,1161,5 2556,955,3065,1424,6 1273,532,1638,643,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000073.jpg 274,1261,2431,3289,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000074.jpg 470,1167,707,1401,6 821,1153,865,1212,5 1984,1743,2348,2006,6 2469,892,2908,1134,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000076.jpg 1737,1019,3148,1800,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000077.jpg 726,3214,2035,4075,2 687,353,2002,1189,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000078.jpg 626,955,3750,3095,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000079.jpg 748,865,1682,3706,0 878,863,1258,1063,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000081.jpg 60,907,3169,2674,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000083.jpg 1128,478,3270,2041,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000084.jpg 2424,2284,2673,2702,0 2540,1646,2843,1924,4 3414,914,3560,1090,4 3644,1059,3824,1135,4 3350,2787,3827,3117,4 136,2970,370,3112,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000086.jpg 1658,290,2282,857,4 1615,674,1802,878,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000087.jpg 1736,1834,1945,2030,4 1717,2027,1929,2355,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000088.jpg 301,92,652,222,0 605,148,651,196,1 778,1757,846,1824,1 105,1781,518,2152,4 703,1900,951,2098,4 3061,252,3612,613,4 3582,568,3958,864,6 3508,2198,4008,2655,5 3032,2017,3169,2140,6 3536,3037,3671,3117,5 1526,306,1837,466,4 2493,1674,2696,1809,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000089.jpg 1224,1363,3118,1892,4 860,1,3116,1387,4 443,4068,1212,4157,4 1575,3869,2299,4157,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000091.jpg 1294,486,1738,791,4 2675,2391,3011,2889,4 1267,2844,2445,3118,4 0,1525,375,1966,4 1445,863,2183,2067,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000092.jpg 1399,3499,1757,3734,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000093.jpg 1082,2255,3118,2993,0 2867,2835,3092,3119,3 674,2706,1616,3056,4 2903,1815,3368,2147,6 3732,2112,3897,2211,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000095.jpg 1117,818,1204,850,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000097.jpg 760,1830,2210,3906,4 1315,178,1520,286,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_12_000099.jpg 1303,197,3650,2923,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000003.jpg 1504,609,1821,811,6 1725,1977,1973,2207,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000005.jpg 752,0,1548,1362,5 2688,2796,3117,3290,4 443,3106,1260,3991,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000006.jpg 1943,1892,2238,2044,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000007.jpg 3013,994,3239,1144,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000008.jpg 1290,850,2533,2691,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000010.jpg 3815,1112,4063,1377,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000012.jpg 1925,1307,2673,2071,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000013.jpg 2633,431,3361,1126,5 2225,1149,2515,1284,6 2373,612,2997,1263,6 948,1912,1924,2365,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000015.jpg 1023,1392,1168,1475,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000018.jpg 731,1316,2111,3200,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000019.jpg 2718,1893,3075,2249,3 321,3007,1220,3508,4 359,1566,1727,2294,4 102,1306,530,1558,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000020.jpg 1838,1527,2005,1726,4 2100,1388,2175,1470,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000022.jpg 882,378,3853,2015,4 869,2890,1473,3117,3 2492,2658,3106,3115,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000023.jpg 2338,693,2996,1557,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000024.jpg 1633,1117,2593,2202,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000025.jpg 601,818,740,1168,4 645,1754,860,2122,4 692,1190,747,1269,4 1062,1133,1159,1527,4 426,4003,538,4158,5 569,4035,618,4092,6 939,2090,1183,2207,4 586,1586,767,1862,4 317,3058,461,3128,4 2111,1644,2170,1730,7 2281,2506,2344,2557,3 2282,1845,2591,2102,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000026.jpg 975,3442,1347,4044,2 1048,979,1195,1078,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000027.jpg 398,1433,2480,2840,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000028.jpg 317,3052,756,3469,1 1400,829,2293,3603,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000031.jpg 935,1070,1873,1704,4 1171,2252,2410,3534,3 534,1063,1143,1427,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000035.jpg 1237,525,3446,1756,5 1830,1555,2958,2256,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000036.jpg 1011,1985,1193,2155,1 2781,1425,3041,1984,0 2917,2489,3056,2639,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000037.jpg 1226,1623,1796,3141,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000038.jpg 955,1402,1978,3502,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000039.jpg 974,1801,1527,3335,0 1054,1799,1254,1892,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000040.jpg 821,1428,2340,3774,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000041.jpg 870,1238,1849,3354,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000042.jpg 972,1138,1865,3384,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000043.jpg 1199,657,2019,2432,0 1221,658,1655,1051,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000044.jpg 3533,1438,3950,1897,5 2850,2472,2940,2622,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000045.jpg 745,943,1261,1879,2 1310,2753,1964,3606,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000046.jpg 945,184,3373,2630,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000050.jpg 2010,1415,3500,2057,6 2,557,399,1126,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000051.jpg 1751,916,3274,2400,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000052.jpg 638,2546,791,2692,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000056.jpg 724,60,831,155,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000057.jpg 1127,1086,1822,3841,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000058.jpg 1554,1040,3735,2260,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000059.jpg 845,2616,2017,3679,2 642,1367,1091,1808,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000061.jpg 312,1064,2930,2662,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000065.jpg 1,971,2515,4159,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000068.jpg 1376,2390,2062,2984,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000072.jpg 1035,2106,1885,2431,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000073.jpg 1679,1010,2419,1760,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000074.jpg 915,318,2664,2488,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000076.jpg 969,1002,2290,3818,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000078.jpg 289,1349,2346,3181,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000082.jpg 893,831,2083,3356,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000083.jpg 962,880,3065,2312,5 2813,701,3577,1575,4 3365,2096,3528,2231,6 3628,674,3819,904,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000085.jpg 706,1378,2414,2557,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000086.jpg 990,628,2350,3048,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000087.jpg 2073,1088,2284,1770,7 1171,2972,1758,3450,7 1144,891,1579,1337,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000089.jpg 1055,839,1425,1159,7 1546,2846,1974,3167,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000092.jpg 975,367,2038,3953,0 1330,370,1785,633,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000093.jpg 40,450,3728,1948,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000094.jpg 727,821,3809,2258,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000095.jpg 550,771,1546,3786,0 1602,412,2571,3528,0 1956,413,2349,633,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000096.jpg 739,800,3391,2564,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000097.jpg 1329,964,1935,2687,3 1293,989,2854,1558,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_13_000099.jpg 1036,1,2964,3119,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000000.jpg 885,599,3439,1946,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000003.jpg 1357,1081,2749,2157,4 2647,1113,3279,1770,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000004.jpg 534,354,3606,2818,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000006.jpg 371,3386,1126,3990,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000007.jpg 3356,1348,3654,1915,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000009.jpg 2169,2598,2651,3356,3 481,1384,1722,2626,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000010.jpg 253,958,2864,2220,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000013.jpg 465,1150,4038,2342,0 465,1502,854,2046,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000015.jpg 2587,2052,3870,3101,0 2948,1773,3017,1865,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000018.jpg 1445,1078,2348,1955,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000019.jpg 327,81,2636,4076,0 327,3652,838,4079,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000021.jpg 1175,1930,1525,2172,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000023.jpg 483,1509,2341,3327,0 2137,3136,2342,3327,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000024.jpg 1221,2156,2027,3186,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000026.jpg 1482,2023,2045,2310,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000027.jpg 627,2099,1384,2777,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000028.jpg 684,1423,1994,2011,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000029.jpg 1245,2700,1667,3133,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000030.jpg 1206,2049,1655,2490,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000032.jpg 2556,1274,2638,1488,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000034.jpg 1311,1763,1672,2291,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000035.jpg 792,1844,1906,2361,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000036.jpg 815,1508,1663,2183,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000037.jpg 988,1551,2015,2793,0 988,2583,1249,2796,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000042.jpg 1421,2606,1618,2810,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000043.jpg 3413,2596,3448,2647,6 908,584,1119,744,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000045.jpg 1170,2306,1413,2635,7 662,2653,939,2983,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000047.jpg 1596,1917,2092,2723,2 1232,2069,1727,2615,2 1649,1697,1736,1763,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000048.jpg 171,-1,689,412,0 319,246,619,472,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000050.jpg 542,3319,3024,4030,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000051.jpg 2332,1607,2793,1933,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000053.jpg 1837,2158,3539,2819,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000054.jpg 2508,2278,3108,2451,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000056.jpg 889,1487,1951,2705,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000057.jpg 1626,1762,3762,2346,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000063.jpg 989,1773,1510,2272,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000064.jpg 928,1567,1975,3040,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000065.jpg 1080,1439,1767,2414,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000067.jpg 1151,1902,1714,2801,5 1254,857,1452,1156,4 1037,894,1224,1013,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000068.jpg 982,2031,1757,2586,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000069.jpg 25,1561,2340,2935,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000070.jpg 1060,2167,2000,2302,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000073.jpg 1377,1841,1960,2424,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000076.jpg 934,2267,1510,2553,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000077.jpg 991,2828,1218,3116,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000078.jpg 1412,2856,1686,3122,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000079.jpg 1324,2005,2341,2865,0 1848,2531,2334,3113,2 1074,1449,1643,2157,2 2198,2085,2365,2190,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000080.jpg 1696,2223,1855,2414,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000081.jpg 313,1993,715,2468,2 1705,2862,2147,4028,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000082.jpg 1450,1754,2036,3133,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000083.jpg 2136,2288,2355,2663,5 700,2801,957,3028,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000084.jpg 1324,2115,1829,2445,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000085.jpg 1287,2951,1486,3173,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000086.jpg 1152,1268,1528,1745,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000087.jpg 1262,1886,1771,2465,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000088.jpg 1267,1771,1550,2177,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000089.jpg 1387,2755,1840,3401,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000090.jpg 1073,1935,1212,2260,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000093.jpg 960,756,1057,883,3 1174,2023,1264,2098,5 1357,2046,1567,2212,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000094.jpg 1630,2329,1716,2406,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_14_000099.jpg 1514,3232,1695,3325,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000000.jpg 569,2678,935,2874,2 1146,347,1309,517,2 1249,11,1348,182,2 1349,47,1458,145,2 1817,450,1900,508,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000001.jpg 1063,2602,1257,2780,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000003.jpg 1907,1214,2168,1678,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000004.jpg 100,988,322,1098,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000005.jpg 1552,1199,1711,1467,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000007.jpg 2235,3229,2577,3601,4 1417,2878,1477,2936,3 1863,2706,1929,2930,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000009.jpg 2385,1985,2436,2086,6 342,1948,389,1984,3 1798,2113,1886,2197,6 1463,1882,1483,1932,6 1765,2067,1799,2128,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000011.jpg 1445,2076,1699,2590,4 2654,697,2738,731,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000012.jpg 943,1855,1090,2033,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000013.jpg 790,2243,1307,2784,2 1529,3422,1648,3549,1 1550,3218,1991,3714,6 1565,3652,1771,3819,6 512,789,669,864,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000015.jpg 715,860,770,886,6 1304,879,1411,915,0 2920,1124,2994,1183,0 2924,1166,2942,1184,1 2804,1366,2971,1423,0 1435,1400,1539,1490,6 1336,2085,1824,2446,4 1723,2026,1846,2164,6 123,2042,196,2118,6 1006,926,1089,944,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000016.jpg 199,980,270,1094,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000018.jpg 549,1381,601,1437,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000020.jpg 980,734,1242,1067,2 39,433,242,524,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000021.jpg 347,905,695,1262,5 416,1171,880,1579,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000022.jpg 1,142,1093,1386,4 757,1347,1024,1627,5 654,1634,871,1858,5 1396,1549,1533,1641,5 1493,1352,1531,1572,5 653,1722,1290,2045,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000024.jpg 836,1920,922,1984,3 654,475,682,527,6 139,277,243,344,3 617,689,650,723,7 1307,1083,1339,1113,7 7,1403,47,1428,7 1195,1975,1219,1993,7 1406,1944,1441,1962,7 796,1798,837,1832,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000025.jpg 666,991,687,1017,7 1101,1066,1124,1086,7 1231,1223,1243,1253,7 737,216,764,243,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000026.jpg 833,875,1253,1474,4 329,1511,489,1769,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000028.jpg 793,1941,856,1995,1 1012,1293,1108,1529,6 1056,1373,1077,1456,7 841,1105,938,1187,3 718,763,812,851,5 172,1051,285,1128,6 263,815,354,898,7 437,353,551,431,3 1039,1011,1125,1061,6 1036,1826,1092,1867,7 842,1465,947,1536,6 197,260,219,296,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000029.jpg 12,543,224,632,4 83,650,185,753,1 153,751,262,862,4 356,546,477,599,6 549,840,577,913,7 1278,1348,1479,1492,5 1145,731,1196,798,5 1290,791,1454,944,4 1040,923,1093,1006,5 1159,1170,1199,1243,4 96,1921,196,1978,6 490,615,565,671,4 477,1292,524,1320,7 554,1265,582,1327,7 158,1542,204,1595,7 1262,1710,1297,1762,7 675,1267,718,1322,7 1047,850,1070,890,7 1165,819,1222,856,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000030.jpg 58,314,141,372,7 689,807,923,1084,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000031.jpg 1726,816,1845,873,7 1247,2112,1724,2717,4 1596,2367,1614,2419,6 1639,1877,1768,2079,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000032.jpg 3498,587,3783,824,6 1929,2151,2009,2467,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000035.jpg 1329,2055,1922,2691,2 891,3248,1223,3334,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000036.jpg 1486,3451,1627,3544,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000038.jpg 1103,2533,1137,2722,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000039.jpg 1258,2249,1598,2595,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000041.jpg 1799,3323,1861,3382,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000043.jpg 628,1019,744,1280,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000046.jpg 1408,814,2017,1319,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000047.jpg 700,1103,1679,2051,5 2056,3177,2139,3271,6 1940,3042,2042,3285,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000048.jpg 1016,1976,1409,2355,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000051.jpg 1887,3297,2166,3606,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000052.jpg 575,1516,2075,2741,5 2,3886,353,4011,7 346,3971,627,4031,7 785,3599,970,3719,7 512,595,579,674,5 1014,3466,1597,3875,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000053.jpg 1365,1282,1601,1416,1 1328,1281,2123,2764,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000054.jpg 1368,2099,1788,2564,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000056.jpg 706,478,1976,1365,0 1101,2551,1753,3162,4 951,3250,1216,3886,5 475,3294,953,3837,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000057.jpg 938,1725,2423,2707,0 938,1749,1109,1975,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000058.jpg 1735,1782,1939,1919,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000062.jpg 624,121,948,214,0 1116,967,1710,1534,4 1179,871,1241,907,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000063.jpg 1342,845,1417,911,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000064.jpg 1168,967,1251,1082,3 3364,720,3403,799,7 2682,691,2753,729,6 1868,752,1918,817,6 3159,1533,3232,1590,3 0,927,60,964,6 918,821,1130,879,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000065.jpg 1861,1405,2415,2114,2 2700,1121,2818,1271,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000066.jpg 288,292,381,351,3 1351,268,1437,331,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000071.jpg 987,853,1244,1253,0 728,2579,814,2668,1 1039,1733,1102,1942,6 1231,2279,1287,2360,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000072.jpg 559,954,1048,1210,0 149,1136,482,1523,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000078.jpg 665,1203,1245,1998,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000079.jpg 926,1661,1468,2297,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000080.jpg 92,1016,152,1161,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_15_000081.jpg 837,893,989,1067,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000000.JPG 1045,1151,1171,1216,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000001.JPG 1582,474,1747,571,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000003.JPG 2069,804,2771,1376,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000005.JPG 732,1191,2154,2574,5 454,1859,855,2794,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000010.JPG 1864,1465,2366,1873,4 1416,1356,1899,1777,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000013.JPG 1047,1312,1359,1651,5 1012,1082,1054,1112,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000018.JPG 989,733,1113,783,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000019.JPG 1633,920,1742,961,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000022.JPG 1225,1717,1254,1746,1 1227,1131,1274,1236,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000025.JPG 1817,2297,1901,2376,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000027.JPG 43,1291,326,1551,2 744,1380,967,1760,2 1406,2071,1783,2447,2 2299,1578,2638,1894,2 2791,1391,3168,1673,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000029.JPG 1084,1784,1331,2152,2 1139,924,1456,1144,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000033.JPG 704,1692,890,1857,2 1307,2136,1355,2181,6 32,2710,64,2758,7 196,2476,214,2536,7 274,2344,332,2408,7 500,2120,536,2142,7 668,2170,704,2224,7 956,1716,990,1726,7 188,724,218,754,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000034.JPG 890,620,966,684,7 890,616,952,642,7 944,584,1010,610,7 546,1146,622,1200,7 1552,1242,1580,1316,7 1612,1216,1640,1278,7 1510,34,1538,84,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000035.JPG 1395,1281,2148,1887,2 345,1868,1250,2522,2 271,1429,940,1996,5 0,1544,357,2128,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000036.JPG 1756,2166,1947,2523,0 1402,1634,1414,1666,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000037.JPG 1161,1532,1313,1852,0 1784,707,1825,728,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000038.JPG 1332,926,1369,954,3 710,334,758,352,7 370,576,398,604,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000039.JPG 1069,1403,1271,1623,2 1238,730,1317,808,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000041.JPG 1558,1781,1707,1987,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000042.JPG 954,1910,1242,2294,2 810,2618,832,2664,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000043.JPG 1046,1277,1267,1398,2 1264,1228,1425,1418,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000044.JPG 1817,1298,2102,1378,0 1817,1322,1837,1358,1 484,1254,502,1274,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000046.JPG 1000,1594,1215,1688,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000047.JPG 1712,423,1802,506,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000048.JPG 1233,1519,1452,1798,2 1839,1536,1906,1743,6 190,2806,234,2876,7 346,1128,370,1170,7 386,1354,414,1388,7 350,494,388,504,7 416,534,432,564,7 376,606,402,620,7 444,708,462,742,7 286,980,320,1006,7 626,696,674,718,7 600,462,638,484,7 772,400,802,420,7 910,316,954,326,7 800,254,826,264,7 878,150,910,168,7 912,282,948,302,7 878,198,912,220,7 916,154,944,170,7 1192,472,1216,506,7 1142,398,1176,420,7 1148,332,1180,352,7 1322,430,1350,458,7 1472,626,1500,656,7 1590,1794,1634,1854,7 1896,1646,1928,1690,7 1390,1822,1438,1860,7 1678,1692,1710,1732,7 1678,1868,1706,1892,7 1396,396,1406,424,7 1380,438,1410,458,7 1188,414,1210,438,7 66,834,104,850,7 360,1378,394,1428,7 256,656,274,676,7 470,848,496,862,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000052.JPG 964,2078,1004,2188,7 1006,2060,1122,2096,7 1150,2016,1222,2102,7 1316,2248,1394,2326,7 120,3036,218,3114,7 176,768,240,870,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000054.JPG 323,1467,584,1748,4 247,1146,382,1178,4 2192,2269,2350,2534,4 960,1521,1112,1591,6 1582,1328,1946,1462,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000057.JPG 1104,1026,1297,1150,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000058.JPG 1076,1168,1363,1500,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000059.JPG 1395,2517,1511,2667,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000060.JPG 1355,907,1597,1104,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000061.JPG 1581,1404,1758,1559,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000065.JPG 664,1616,1251,1884,4 1172,692,1210,732,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000067.JPG 1525,1206,2043,1426,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000072.JPG 2165,1445,2272,1547,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000075.JPG 1104,881,1335,1168,2 1486,866,1548,916,7 1014,732,1030,776,7 916,814,972,866,7 2254,562,2288,596,7 2274,702,2288,728,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000076.JPG 1600,924,2069,1507,0 282,1056,360,1076,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000079.JPG 606,2938,634,2960,7 1548,358,1606,402,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000080.JPG 1404,2097,1666,2285,2 1254,1611,1316,1668,6 132,234,166,332,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000081.JPG 432,1914,482,1982,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000082.JPG 697,2031,796,2127,6 1704,1174,1752,1286,6 189,2944,240,3074,6 1289,2527,1356,2583,4 792,672,830,684,7 1626,422,1644,458,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000086.JPG 1329,720,1679,887,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000030.JPG 771,1523,949,1750,4 708,1004,756,1038,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000049.JPG 669,1067,810,1100,2 870,1049,951,1090,2 3011,974,3090,1019,2 1198,990,1422,1078,0 2348,969,2503,1033,0 1982,1284,2010,1302,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000088.JPG 1488,1407,1932,1873,0 1488,1786,1580,1873,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000089.JPG 1641,859,2251,1039,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000090.JPG 1538,1583,1974,1803,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000091.JPG 1626,1383,2047,1622,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000093.JPG 1135,1772,1225,1858,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000096.JPG 1159,1206,1262,1344,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000098.JPG 1031,1093,1230,1195,2 854,422,894,438,7 840,152,854,172,7 1240,212,1262,238,7 998,720,1044,754,7 1382,532,1406,546,7 252,1318,300,1336,7 724,922,746,946,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_2_000084.JPG 975,81,1091,344,5 1086,984,1124,1052,7 1032,936,1072,1012,7 1040,772,1084,824,7 1112,954,1166,1028,7 1124,786,1140,822,7 1016,900,1030,934,7 1622,294,1696,342,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4972.JPG 1566,266,1644,318,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4977.JPG 1155,1733,1416,1998,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4978.JPG 1088,1045,1408,1638,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4980.JPG 241,1165,492,1342,5 1474,2388,1500,2444,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4992.JPG 997,897,1450,1388,0 1173,687,1226,735,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4996.JPG 1099,1438,1396,2250,0 1228,2173,1350,2250,1 800,145,1431,516,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4997.JPG 1298,918,1429,1021,2 1139,1916,1271,2021,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_5003.JPG 1433,2347,1504,2375,6 1234,3148,1274,3248,7 1642,2790,1710,2856,7 1014,1880,1042,1958,7 1086,860,1152,898,7 1858,1058,1940,1122,7 2140,2674,2188,2744,7 2092,2548,2136,2652,7 2164,2644,2236,2688,7 2096,1826,2208,1854,7 1864,1476,1922,1550,7 1776,816,1826,844,7 2018,272,2082,286,7 2144,478,2196,504,7 1852,276,1874,304,7 2348,810,2400,830,7 528,2624,578,2698,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_5036.JPG 1235,886,1431,944,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_5039.JPG 1150,2072,1234,2145,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_5043.JPG 383,1252,1800,1951,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_5045.JPG 784,1936,1236,2395,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_5048.JPG 1341,1166,1444,1400,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_5049.JPG 145,286,1578,2389,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_5053.JPG 2357,407,2448,972,0 1698,951,1794,1020,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_5054.JPG 2189,1827,2245,1865,2 2203,1805,2270,1841,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_5055.JPG 1134,1780,1466,2088,2 1213,1146,1523,1566,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_5057.JPG 1190,1762,1309,1823,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_5058.JPG 787,1398,1101,1643,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4852.JPG 776,4,818,56,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4859.JPG 677,560,1354,1279,4 483,1680,1438,2419,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4860.JPG 1548,1678,2092,2032,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4862.JPG 704,1275,780,1366,1 802,1516,836,1588,7 692,1256,760,1300,7 658,1234,708,1264,7 1164,1266,1180,1298,7 1216,1208,1242,1258,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4868.JPG 712,363,1404,1510,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4869.JPG 351,921,2132,2522,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4874.JPG 239,232,1424,1736,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4876.JPG 11,501,2273,1533,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4877.JPG 286,555,2297,2647,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4878.JPG 825,1188,2449,2329,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4883.JPG 673,1054,745,1133,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4887.JPG 974,1074,1177,1207,2 828,1652,917,1709,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4889.JPG 982,1196,1244,1320,2 353,1587,391,1695,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4891.JPG 1810,1320,1998,1594,4 1129,1446,1181,1501,6 654,3220,706,3264,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4893.JPG 1083,1815,1333,2366,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4895.JPG 1251,1646,1492,2022,5 985,1868,1162,1992,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4897.JPG 1415,1683,1652,1988,4 1263,1619,1457,1745,4 1733,2616,1912,2825,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4902.JPG 1171,1062,1534,1291,4 1625,1854,1687,1947,4 2315,2834,2390,2944,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4911.JPG 776,1595,903,1831,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4919.JPG 1117,2163,1419,2296,2 1157,1790,1305,1924,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4921.JPG 1838,2314,2128,2572,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4924.JPG 1000,1788,1267,2019,4 2026,1390,2060,1458,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4928.JPG 2232,1111,2292,1156,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4936.JPG 911,3054,996,3165,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4941.JPG 1063,1455,1269,1569,0 1603,1728,1760,1794,0 1468,1449,1546,1521,3 2743,1242,2807,1300,3 2205,1236,2232,1265,6 961,145,1016,176,6 1752,207,1801,229,6 1520,1963,1540,1990,6 1625,1863,1653,1880,6 4,1933,84,1988,6 130,1800,308,1911,5 1974,1914,1986,1958,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4963.JPG 1327,1254,1620,1493,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4964.JPG 1305,1162,1412,1263,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4966.JPG 1258,1269,1476,1478,4 1830,1744,1869,1755,3 1879,1493,1914,1501,6 1895,1479,1909,1485,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4967.JPG 1694,1674,1823,1734,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4969.JPG 737,1616,977,1687,0 1414,1197,1555,1272,0 1293,1028,1339,1067,0 50,1526,110,1563,6 970,1511,1014,1543,6 1122,1433,1153,1456,6 2162,635,2215,657,6 896,877,919,890,6 1082,1432,1126,1464,5 1422,898,1445,933,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4971.JPG 1068,2512,1284,2747,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4881.JPG 626,1861,807,2008,4 741,1681,816,1774,6 1000,533,1018,605,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4929.JPG 827,1890,1252,2346,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4950.JPG 717,1093,1161,1543,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_4948.JPG 240,1431,392,1683,0 1403,1308,1531,1554,0 1504,1391,1712,1489,2 1309,1638,1344,1671,1 1403,1525,1453,1555,1 1476,1295,1565,1341,5 103,1855,174,1902,6 3,1776,78,1790,6 575,1753,602,1798,6 1383,1628,1411,1658,3 877,1780,904,1809,6 2190,1710,2206,1762,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_5037.JPG 996,1833,1312,2189,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_5065.JPG 826,679,2322,1670,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_5066.JPG 1242,333,2448,1293,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_3_IMG_5067.JPG 30,871,1248,2420,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000032.JPG 992,926,1075,1003,1 805,1839,1114,2408,0 1116,784,1140,864,7 1908,1048,1940,1126,7 1396,3050,1424,3124,7 1730,2934,1750,3006,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000066.JPG 2565,1498,2865,1699,3 1810,1203,2011,1362,3 2741,1015,2790,1079,3 803,571,874,613,3 1103,967,1269,1108,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000000.JPG 1430,1109,1500,1174,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000002.JPG 1186,3000,1437,3263,4 1586,2710,1618,2724,7 1538,2736,1574,2756,7 1532,2758,1568,2782,7 1528,2772,1554,2788,7 1452,2750,1488,2780,7 1514,2536,1542,2570,7 1508,2408,1550,2434,7 1778,2326,1804,2362,7 1826,1676,1836,1710,7 514,3182,556,3200,7 1538,2434,1560,2452,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000003.JPG 840,1028,999,1186,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000004.JPG 2486,1242,2540,1258,7 2482,1216,2536,1244,7 40,1286,86,1312,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000005.JPG 740,1188,816,1206,7 2048,1392,2130,1430,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000006.JPG 1331,2671,1674,2864,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000007.JPG 688,1215,991,1386,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000009.JPG 894,1606,1365,1714,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000010.JPG 528,1457,945,1713,3 714,1190,774,1222,3 1883,1599,2126,1769,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000011.JPG 1200,2101,1337,2337,3 1416,397,1696,811,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000012.JPG 881,1456,1640,1984,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000013.JPG 691,1323,972,1597,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000014.JPG 1852,3080,1947,3170,3 1655,1930,1746,2017,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000015.JPG 962,2331,1250,2596,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000016.JPG 979,1151,1239,1545,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000018.JPG 513,1300,1153,1784,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000019.JPG 2358,1359,2585,1503,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000020.JPG 928,1619,1312,1853,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000021.JPG 1599,1234,1814,1451,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000022.JPG 874,1461,999,1553,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000023.JPG 2069,1254,2275,1375,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000025.JPG 939,725,1106,912,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000028.JPG 1315,1575,1511,1748,3 1253,1758,1304,1816,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000029.JPG 1667,717,1790,1121,4 1556,645,1740,873,4 1227,794,1347,966,3 1279,705,1458,888,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000031.JPG 1554,1089,2183,1541,4 954,790,1100,899,4 1232,752,1268,776,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000035.JPG 346,2488,414,2538,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000036.JPG 750,1540,1067,1871,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000045.JPG 603,1642,1285,2447,4 2629,629,2909,748,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000048.JPG 846,1779,1250,1979,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000052.JPG 433,1314,1129,1926,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000053.JPG 1621,1611,2102,2045,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000054.JPG 1636,1502,1853,1694,3 1738,1871,1972,2121,3 523,966,1107,1580,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000056.JPG 1898,1563,2113,1656,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000057.JPG 755,1514,1082,1605,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000059.JPG 1259,1654,1755,1918,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000060.JPG 2377,957,2757,1227,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000061.JPG 909,1742,1092,1969,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000062.JPG 682,2610,929,2843,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000063.JPG 1256,1593,1387,2029,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000065.JPG 1563,1282,1764,1421,3 879,1433,2807,1814,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000068.JPG 1273,1945,1576,2177,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000073.JPG 2480,632,2521,685,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000074.JPG 2060,1048,2153,1147,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000076.JPG 1617,1030,2062,1378,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000077.JPG 1283,1624,1757,1928,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000080.JPG 2506,1406,2585,1492,1 563,1041,950,1102,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000082.JPG 972,1026,998,1056,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000084.JPG 1498,1121,1607,1324,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000085.JPG 978,1267,1209,1369,2 1822,800,1842,844,7 1184,2126,1216,2186,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000087.JPG 1999,522,2426,939,4 1926,472,2229,1273,4 193,1103,254,1170,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000089.JPG 1041,1840,1327,2058,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000092.JPG 1440,2110,1514,2187,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000093.JPG 1129,1799,1428,2128,4 2052,476,2084,536,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000094.JPG 1694,1094,2476,1680,3 848,1462,872,1484,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000095.JPG 1517,1255,1639,1386,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000096.JPG 987,2133,1153,2288,1 1132,256,1204,286,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_4_000098.JPG 853,2015,1517,2556,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000071.JPG 1282,1981,1793,2375,0 677,3052,1022,3264,3 2347,1341,2415,1472,3 2054,1616,2118,1646,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000072.JPG 1463,682,1987,1148,0 2484,1002,2516,1022,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000073.JPG 1085,1901,1597,2372,2 781,144,924,249,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000119.JPG 2107,1200,2500,1433,3 1520,954,1584,966,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000079.JPG 942,1470,1656,1694,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000082.JPG 974,2341,1272,2674,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000083.JPG 1638,972,2036,1077,0 1990,982,2035,1042,1 1494,1984,1578,2075,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000084.JPG 1344,1393,1908,1699,0 1829,1603,1908,1695,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000085.JPG 1222,1300,2031,1492,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000086.JPG 1961,1467,2367,1712,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000088.JPG 681,1590,769,1677,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000090.JPG 2128,1932,2389,2084,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000091.JPG 2253,1381,2353,1444,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000092.JPG 667,2995,702,3124,6 718,3112,848,3202,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000099.JPG 896,1293,1597,1576,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000062.JPG 997,1926,1157,2258,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000064.JPG 2133,854,2201,907,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000066.JPG 666,3117,692,3263,3 280,2336,316,2408,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000067.JPG 883,1274,1343,1689,0 1031,1592,1126,2288,6 437,2672,531,2977,3 445,3060,607,3263,6 1680,3156,1769,3263,6 478,1472,584,1570,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000068.JPG 314,1752,388,1788,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000069.JPG 1009,1434,1380,1695,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000070.JPG 1230,1046,1411,1470,0 2222,1064,2264,1076,7 510,90,526,110,7 22,1722,52,1758,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000103.JPG 2107,1414,2344,1597,2 1708,92,1763,192,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000104.JPG 253,1510,299,1544,6 2167,1951,2189,1979,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000106.JPG 2321,1067,2908,1428,3 1469,288,1492,323,6 1246,368,1273,396,6 1364,682,2503,784,4 1085,356,1182,496,4 163,527,386,610,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000107.JPG 1033,473,1054,506,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000108.JPG 1461,1041,1622,1129,6 652,1538,698,1574,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000110.JPG 787,1695,1058,1922,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000111.JPG 996,2177,1041,2216,1 2,2104,251,2201,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000112.JPG 703,1540,1187,2101,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000113.JPG 862,673,1398,977,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000114.JPG 1062,556,1596,879,0 1517,556,1596,650,1 1084,1406,1158,1454,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000115.JPG 1136,1453,1317,1636,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000116.JPG 1061,1885,1153,1989,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000000.JPG 1257,1871,1341,1989,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000001.JPG 1310,1445,1603,1657,0 1567,1445,1602,1489,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000002.JPG 1410,1275,1646,1516,2 877,327,932,390,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000004.JPG 674,903,1220,1345,5 2127,691,2755,1209,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000005.JPG 613,435,810,865,2 436,1828,855,2330,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000006.JPG 720,1403,1603,1890,5 1768,1030,2024,1314,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000007.JPG 1461,956,1793,1175,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000008.JPG 1032,1443,1541,1721,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000010.JPG 1876,1,2147,132,6 2932,312,3064,366,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000011.JPG 836,1228,1430,1543,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000012.JPG 1350,1445,1560,1716,5 1441,1393,1635,1537,5 825,1405,1128,1839,2 1149,1297,1410,1754,2 1277,1590,1779,1931,2 1509,1449,1770,1641,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000013.JPG 704,1622,952,1748,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000015.JPG 949,1536,1035,1631,2 942,1624,1152,1712,2 1125,1571,1335,1676,2 1132,1522,1318,1609,2 1124,1603,1340,1763,3 1027,1523,1093,1637,3 1318,1555,1402,1574,6 301,2578,369,2626,6 2213,1450,2448,1600,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000016.JPG 1232,1628,1466,1960,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000017.JPG 907,1125,1366,1446,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000019.JPG 1756,3201,1829,3264,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000020.JPG 949,1382,1142,1610,4 1797,2635,1894,2746,6 1256,3088,1326,3138,7 1220,610,1268,676,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000021.JPG 1217,1251,1638,1661,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000022.JPG 1086,1133,1622,1690,5 1913,1913,2041,2039,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000023.JPG 1173,1534,1451,1681,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000028.JPG 1055,1724,1396,2385,0 506,1954,544,2012,7 192,2686,238,2772,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000029.JPG 1221,1891,1300,1961,5 1542,2611,1593,2646,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000030.JPG 950,1787,1090,1928,6 982,1736,1010,1790,7 998,1672,1038,1730,7 1038,1674,1098,1710,7 1060,1578,1076,1634,7 1108,1644,1140,1676,7 1098,1510,1136,1568,7 1128,1604,1152,1638,7 1118,1604,1156,1630,7 1104,1584,1158,1610,7 1084,1564,1098,1640,7 982,1794,1018,1820,7 998,1802,1036,1832,7 1060,1802,1088,1816,7 418,1964,434,1990,7 1394,200,1408,236,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000033.JPG 896,1710,1145,2071,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000034.JPG 1244,1484,1280,1530,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000036.JPG 1507,1827,1895,2222,4 648,826,829,977,4 1176,1015,1330,1215,2 323,3149,540,3264,2 504,986,638,1087,6 120,644,438,738,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000038.JPG 919,1723,1036,2094,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000040.JPG 2054,988,2524,1360,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000041.JPG 2224,2985,2272,3070,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000042.JPG 1340,1374,1492,1512,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000045.JPG 1021,1208,1149,1333,3 921,1511,1072,1592,3 697,2295,895,2357,4 393,1730,487,1903,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000047.JPG 1865,1652,1906,1821,3 2150,1212,2269,1348,6 154,786,188,814,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000049.JPG 1963,2178,2166,2318,6 1734,864,1814,888,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000050.JPG 721,1982,866,2234,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000051.JPG 865,1143,1218,1397,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000052.JPG 1517,976,1603,1212,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000058.JPG 1268,2366,1292,2416,7 1318,1888,1344,1922,7 1308,1762,1330,1804,7 680,148,696,164,7 1552,210,1562,224,7 1528,252,1550,266,7 1920,632,1948,640,7 1988,1040,2004,1066,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_5_000061.JPG 793,1787,1324,2354,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000104.JPG 501,908,1131,1489,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000103.JPG 1488,1463,1596,1579,0 1488,1559,1508,1578,1 1410,1821,1495,1864,6 1513,1716,1557,1749,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000102.JPG 1395,1845,1596,1952,0 481,2865,612,2933,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000100.JPG 994,579,1602,894,0 2478,1995,2745,2340,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000097.JPG 1450,1257,1918,1469,0 1570,1455,2082,1682,0 1452,1283,1493,1370,1 1569,1456,1608,1519,1 2066,1515,2155,1636,5 1307,1190,1386,1296,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000095.JPG 985,1188,1479,1575,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000094.JPG 1064,1865,1508,2246,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000093.JPG 1619,1508,1939,2036,0 1636,1900,1758,2034,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000092.JPG 1271,301,1320,344,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000090.JPG 710,1624,918,1814,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000085.JPG 639,1417,1186,1947,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000083.JPG 738,2047,936,2226,0 1139,2279,1206,2339,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000082.JPG 2302,1090,2384,1180,2 2721,934,2912,1032,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000080.JPG 737,1948,1214,2110,0 1193,2024,1215,2077,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000078.JPG 334,735,526,853,0 1775,939,1993,1019,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000077.JPG 3289,1222,3317,1246,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000076.JPG 1150,1286,1412,1843,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000072.JPG 1023,1632,1068,1728,0 1116,1743,1182,1831,0 1140,1722,1212,1819,0 1658,0,1720,55,0 1337,906,1431,945,0 1411,985,1444,1073,0 1259,900,1298,977,0 1673,55,1724,100,6 1545,148,1609,217,6 1711,38,1790,100,6 1606,133,1630,170,3 1631,143,1672,177,6 1661,151,1723,192,6 1522,399,1550,433,6 1600,392,1644,429,6 1513,474,1548,511,6 1453,519,1480,540,6 1523,548,1544,568,6 1465,644,1511,684,6 1417,588,1437,611,6 1317,1003,1405,1047,6 1355,1059,1431,1088,6 1387,1165,1445,1192,6 1526,1123,1540,1146,6 1951,830,2020,877,6 1713,1824,1763,1874,6 1396,1547,1431,1601,6 1520,804,1547,838,6 910,2184,1001,2257,6 981,1911,1001,1932,6 1119,1345,1186,1415,6 1050,1855,1156,1945,6 1157,1873,1192,1911,6 1426,1560,1459,1590,6 1408,1458,1420,1479,6 1043,1575,1072,1633,6 735,2528,774,2570,3 714,2709,780,2801,6 991,2003,1021,2046,6 1048,1719,1089,1738,6 1215,1437,1286,1509,6 745,2916,814,2962,3 537,3091,570,3128,6 716,2668,752,2704,3 999,2188,1018,2265,6 876,2232,903,2273,6 791,2785,814,2837,6 783,2502,859,2578,6 795,2734,821,2758,6 776,2695,792,2721,6 1113,1413,1143,1435,6 897,2309,976,2371,6 898,2363,946,2405,6 860,2472,877,2502,6 880,2385,905,2414,6 914,2408,986,2463,6 771,2658,793,2686,6 873,2733,899,2776,6 774,2963,814,3003,6 820,2963,859,3018,6 668,3179,706,3209,6 652,3215,686,3251,6 1498,565,1584,621,5 1714,0,1829,46,4 1241,1119,1302,1184,5 1300,1556,1359,1617,5 1128,1621,1201,1693,5 1182,1655,1272,1737,4 1131,1541,1212,1619,5 919,2093,1022,2184,5 1259,1504,1327,1572,4 1892,1040,1962,1071,2 1955,649,1986,698,2 2131,180,2179,213,2 2191,1565,2239,1638,2 868,2799,889,2821,1 869,2506,885,2522,1 844,2574,863,2595,1 857,2613,873,2634,1 711,3233,728,3254,1 811,2844,829,2863,1 826,2647,839,2666,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000071.JPG 1101,2122,1178,2208,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000068.JPG 753,1627,864,1750,4 1030,1870,1119,1947,5 477,1156,554,1246,5 1362,1550,1400,1616,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000066.JPG 554,189,723,292,0 1532,495,1613,564,0 518,840,532,856,7 744,752,768,766,7 686,730,712,738,7 776,722,792,736,7 676,656,702,666,7 680,596,710,602,7 850,610,876,618,7 620,506,642,514,7 1074,658,1086,674,7 1092,688,1130,698,7 1336,648,1362,656,7 1538,542,1548,556,7 1246,482,1262,492,7 1716,680,1740,688,7 1736,612,1758,626,7 1250,800,1266,812,7 1264,794,1282,810,7 1634,874,1654,878,7 1844,1118,1864,1132,7 2754,1200,2786,1220,7 2836,1814,2864,1846,7 2908,1872,2950,1898,7 2586,1808,2616,1830,7 1146,1054,1178,1070,7 528,970,562,994,7 1844,2056,1878,2096,7 834,248,858,256,7 146,256,166,262,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000065.JPG 1074,1401,1277,1702,0 940,1488,1089,1794,0 1075,1618,1171,1702,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000064.JPG 1171,1286,1197,1306,1 1290,1251,1360,1295,6 890,819,932,859,6 843,656,894,669,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000062.JPG 1131,1561,1533,1902,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000060.JPG 867,1265,1167,1871,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000058.JPG 427,296,1299,631,0 865,649,1561,1360,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000056.JPG 2054,775,2580,1544,0 1254,412,1593,803,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000055.JPG 970,1538,1312,1692,0 3057,806,3235,949,5 3031,1012,3165,1062,5 2574,723,2669,818,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000057.JPG 768,1277,1075,1791,2 725,847,1033,1371,2 671,703,942,1371,2 1041,639,1292,1010,2 1594,677,1802,1039,2 1880,634,2096,979,2 2032,559,2206,884,2 2229,718,2475,1072,2 2422,819,2551,1020,2 2198,612,2426,932,2 412,1065,557,1334,2 441,1185,694,2051,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000051.JPG 1123,836,1272,1281,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000050.JPG 1038,989,1134,1027,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000049.JPG 0,2358,114,2466,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000047.JPG 941,799,1852,1409,0 939,1302,1037,1407,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000046.JPG 531,552,865,919,0 1104,3060,1164,3118,7 500,2026,516,2070,7 494,1992,544,2028,7 514,2112,530,2146,7 494,2110,514,2150,7 4,2510,58,2552,7 138,1468,166,1508,7 144,1372,160,1414,7 114,1266,144,1298,7 146,1344,158,1374,7 1066,416,1082,446,7 1114,384,1140,408,7 1172,758,1226,780,7 1836,1414,1858,1452,7 1930,2646,1982,2700,7 48,1732,96,1754,7 670,1856,680,1898,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000043.JPG 1107,701,1542,1270,4 2205,1736,2489,2014,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000040.JPG 1912,1280,1939,1301,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000038.JPG 1403,1199,1582,1297,0 850,817,908,877,0 1709,821,1849,903,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000037.JPG 883,1050,1108,1193,0 1616,705,1877,953,0 2168,320,2246,414,5 1733,252,1821,303,6 1912,238,1970,379,6 822,338,851,361,3 741,397,784,416,6 1046,275,1059,290,3 805,1054,831,1087,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000034.JPG 1625,503,1993,898,0 1289,2018,1500,2542,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000032.JPG 951,1516,1188,1672,0 2202,1638,2458,1739,0 360,1917,465,1978,6 1316,1943,1425,2041,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000031.JPG 1258,1529,1354,1641,3 1305,1458,1382,1505,6 1203,1497,1249,1521,6 1360,1544,1396,1572,6 1269,1474,1307,1508,6 1422,1564,1469,1608,6 1212,1437,1291,1496,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000029.JPG 1512,1267,1966,1485,0 1616,1474,2121,1683,0 1512,1297,1547,1383,1 2101,1542,2220,1666,6 1378,1067,1613,1302,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000028.JPG 1159,1753,1692,2142,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000026.JPG 701,1444,1496,2303,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000023.JPG 726,1203,1077,1656,0 727,1550,824,1654,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000021.JPG 685,422,1492,1612,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000020.JPG 1241,1750,1491,1924,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000019.JPG 950,804,1854,1408,0 952,1299,1066,1407,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000017.JPG 389,580,1087,836,0 1042,368,1324,1095,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000015.JPG 1283,1556,1774,1774,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000014.JPG 718,1321,971,1602,0 754,1488,776,1516,7 596,1420,628,1464,7 1340,1782,1400,1828,7 1400,2196,1454,2228,7 1680,2208,1722,2260,7 336,2346,402,2400,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000013.JPG 971,703,1213,965,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000010.JPG 534,1591,1144,2316,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000007.JPG 879,1411,2422,2332,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000006.JPG 3047,1483,3135,1547,1 2660,1067,2722,1096,1 1313,1144,1538,1291,0 1522,1227,1599,1276,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000005.JPG 939,1657,1288,1879,5 1686,2828,1744,2862,7 1820,3030,1890,3104,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000003.JPG 2022,1172,2068,1226,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_6_000001.JPG 646,2065,1554,2504,5 1865,1732,2441,2412,5 601,1104,1651,1694,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000000.JPG 3521,2398,3682,2666,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000001.JPG 2199,1013,2311,1057,3 1901,1052,2156,1244,3 3895,2872,4029,3005,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000002.JPG 3300,3184,3377,3240,3 1703,2177,1767,2216,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000004.JPG 1525,2472,2133,2877,5 3553,1944,3743,2192,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000005.JPG 1822,1957,2545,2818,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000006.JPG 3500,2926,4204,3676,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000010.JPG 3830,1432,4155,1566,0 4108,1466,4155,1532,1 3577,1127,3634,1173,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000011.JPG 2999,2432,3307,2605,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000012.JPG 3326,1175,4192,2053,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000016.JPG 358,844,703,964,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000017.JPG 1436,1742,1791,2200,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000021.JPG 2814,129,2889,164,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000022.JPG 2499,1822,2798,2048,3 2914,1750,3264,2009,3 1236,231,1469,379,3 1613,171,1804,368,3 2322,90,2599,182,3 386,518,473,797,3 2071,190,2303,242,3 1957,160,2092,329,6 902,1100,1528,1901,0 458,1449,1237,1922,0 1096,1178,1134,1300,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000023.JPG 1610,614,1979,732,4 1100,2176,1138,2220,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000024.JPG 1163,1156,1297,1292,2 1315,1743,1500,1862,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000025.JPG 616,1380,933,1563,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000035.JPG 1364,1099,1455,1157,3 108,1548,148,1560,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000036.JPG 1612,864,1982,1266,4 913,548,1004,593,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000037.JPG 1060,2234,1080,2278,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000039.JPG 903,1573,970,1623,6 1163,1997,1303,2083,6 1174,1554,1261,1608,5 441,2996,682,3132,4 2288,1932,2350,1966,7 2326,1918,2392,1946,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000043.JPG 906,2882,1084,3075,3 937,3031,1044,3111,3 1416,2252,1480,2318,6 1324,2716,1388,2762,7 1522,2542,1556,2608,7 2088,2194,2144,2242,7 2274,2124,2340,2182,7 236,1632,290,1686,7 8,1578,62,1610,7 600,1138,618,1196,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000044.JPG 837,1183,1296,1402,0 824,1241,933,1372,4 4,2538,531,2997,4 1300,1508,1346,1538,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000047.JPG 844,1466,856,1498,7 856,1448,870,1486,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000048.JPG 514,1918,619,1996,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000049.JPG 1891,1763,2049,1937,4 528,1944,660,2051,5 645,2335,775,2436,5 0,847,111,925,4 614,1589,814,2083,0 278,1825,340,1876,6 1520,2439,1559,2536,6 1871,1438,2039,1530,6 415,570,531,609,6 1200,626,1421,677,6 1389,481,1412,492,6 217,1294,266,1326,6 1778,2692,1821,2997,3 1397,2528,1454,2611,6 868,2519,1026,2667,3 662,2052,713,2083,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000050.JPG 924,1192,1177,1327,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000051.JPG 1295,2573,1431,2759,4 840,1492,880,1504,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000052.JPG 3017,1814,3069,1869,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000054.JPG 293,2012,344,2045,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000055.JPG 1262,1243,1679,1441,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000060.JPG 1279,1541,1580,1739,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000062.JPG 1564,911,1745,1094,0 1563,1061,1593,1094,1 1810,629,1955,747,4 1351,817,1528,911,5 996,2002,1289,2295,5 590,2475,749,2653,5 900,1480,1017,1617,4 1721,467,1755,496,6 2189,18,2256,91,6 2202,0,2281,45,6 1086,760,1156,844,6 1165,2263,1311,2483,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000063.JPG 1546,182,1633,366,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000064.JPG 1409,1558,1547,1686,5 1978,1146,2171,1230,4 793,2266,901,2338,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000065.JPG 2292,868,2404,943,0 2292,920,2314,944,1 1,788,74,826,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000066.JPG 702,608,812,693,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000067.JPG 1837,909,2155,1160,4 1726,1627,1805,1763,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000068.JPG 1503,675,1678,832,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000069.JPG 1200,1795,1421,2022,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000072.JPG 1070,1284,1513,1601,0 448,350,875,726,6 1016,3036,1046,3110,7 458,3090,548,3144,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000073.JPG 1434,1898,1478,1939,1 1100,2040,1150,2062,7 1656,2436,1696,2456,7 1242,254,1268,276,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000075.JPG 1092,1744,1152,1768,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000076.JPG 298,799,325,831,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000077.JPG 618,1456,782,1738,0 676,3196,704,3260,7 952,942,966,980,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000078.JPG 1804,1019,1931,1109,4 1236,1809,1381,2251,0 1293,2200,1358,2252,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000079.JPG 1003,1762,1367,1905,0 564,1821,946,1966,0 380,2251,485,2318,6 580,1500,927,1791,4 1205,1631,1349,1724,4 226,2146,278,2172,7 302,2250,332,2292,7 376,2252,396,2290,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000080.JPG 2093,1023,2235,1265,0 2133,1232,2183,1266,1 3054,160,3084,178,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000082.JPG 886,1343,1151,1563,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000083.JPG 650,1100,1108,1559,4 340,1310,368,1344,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000084.JPG 784,1138,818,1154,7 492,1086,526,1104,7 280,944,320,960,7 1904,1230,1924,1264,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000085.JPG 694,2484,1122,2818,0 927,1786,1288,2017,0 461,1196,828,1305,0 433,1065,584,1172,0 555,1481,693,1713,0 1064,737,1260,818,0 407,874,530,1023,0 59,1072,224,1187,0 101,310,185,460,0 2,236,71,303,0 1093,2038,1174,2124,5 586,2512,725,2631,5 460,1223,481,1243,1 1064,762,1082,802,1 0,726,447,1076,6 0,0,51,102,6 760,2870,804,2940,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000086.JPG 1676,2558,1718,2612,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000087.JPG 2337,1587,2368,1651,1 1567,1516,1614,1569,1 1772,1345,2093,1508,0 2130,2330,2180,2364,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000088.JPG 1312,1524,1413,1567,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000089.JPG 1449,1316,1578,1355,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000091.JPG 1741,1200,1963,1860,0 1819,1200,1893,1285,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000092.JPG 1254,493,1680,1222,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000095.JPG 919,1627,1224,1805,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000096.JPG 972,718,1030,740,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000097.JPG 347,483,649,761,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000098.JPG 1103,1273,2234,1675,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000100.JPG 1519,1451,1726,1711,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000101.JPG 1867,1374,2275,1734,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000102.JPG 1605,1844,2014,2157,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000103.JPG 2139,942,2238,1221,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000104.JPG 1440,972,1854,1108,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000106.JPG 220,851,415,1076,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000107.JPG 1900,1173,2167,1293,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000109.JPG 1884,942,2046,1281,0 1940,942,2015,993,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000110.JPG 1189,1791,1333,2025,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000113.JPG 1537,1554,1718,1705,0 1538,1670,1568,1699,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000118.JPG 1674,1217,1897,1484,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000120.JPG 1395,1346,1766,1484,3 1319,281,1408,373,3 1505,282,1680,332,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000121.JPG 1564,1465,2040,1731,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000122.JPG 2010,938,2279,1350,4 945,1276,1058,1463,3 720,1219,838,1312,6 1211,1659,1368,1810,3 1330,1632,1377,1661,3 1506,1506,1703,1770,3 659,1477,752,1534,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000123.JPG 143,1979,187,2028,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000124.JPG 1557,1282,1876,1650,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000125.JPG 1774,884,2032,1374,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000126.JPG 1094,1642,1193,1738,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000127.JPG 1613,1409,1643,1670,3 1595,466,1710,683,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000128.JPG 1726,1054,1997,1370,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000129.JPG 1932,1198,2363,1535,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000131.JPG 1538,1539,1609,1606,1 1289,1423,1353,1486,1 505,570,572,627,3 230,2830,449,3052,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000132.JPG 1014,1336,1205,1701,3 2130,1044,2241,1135,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000134.JPG 1093,1815,1235,1934,5 647,922,670,978,3 543,862,603,938,6 1815,1903,1845,2067,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000135.JPG 1343,1577,1503,1978,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000136.JPG 1018,1108,1060,1164,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000137.JPG 2214,1327,2568,1578,3 2534,1163,2571,1188,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000138.JPG 773,1504,865,1600,1 2165,1259,2189,1454,3 1897,1399,2056,1551,3 1903,1261,1968,1341,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000139.JPG 1700,939,1996,1095,3 1859,768,1911,793,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000140.JPG 1145,1472,1373,1603,3 2057,269,2099,323,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_7_000141.JPG 1100,1315,1525,1649,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000000.jpg 143,1979,187,2028,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000002.jpg 581,1161,615,1268,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000004.jpg 1851,721,2143,954,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000005.jpg 3520,2402,3681,2667,5 5573,442,5632,474,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000007.jpg 232,1278,902,1547,0 883,871,2110,1894,0 28,1860,1533,2497,0 858,2057,1751,2479,0 1546,1816,2139,2247,0 1547,1901,1781,2129,1 1,2929,255,3260,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000008.jpg 1357,1141,1740,1737,2 1123,946,1191,998,7 663,1926,765,1975,6 1580,2485,1773,2627,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000009.jpg 1076,1559,1348,1838,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000012.jpg 964,1254,1364,1577,0 963,1517,1017,1581,1 2276,2907,2350,2957,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000013.jpg 1222,2352,1292,2424,1 1064,442,1399,648,0 1365,439,1402,494,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000014.jpg 794,1101,946,1405,2 932,1057,1086,1391,2 1066,1068,1224,1422,2 1217,1155,1377,1459,2 1355,1104,1515,1445,2 1495,1071,1637,1391,2 1631,1053,1771,1408,2 1762,1115,1915,1472,2 1901,1057,2042,1532,0 2091,1198,2293,1527,2 1511,1447,1883,1595,2 1184,1451,1511,1584,2 804,1435,1176,1582,2 757,1419,848,1507,6 1422,806,1503,845,6 1290,808,1413,862,6 1224,816,1301,908,6 2086,914,2161,1001,6 1985,2191,2006,2247,6 1946,1493,2012,1530,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000015.jpg 2330,862,2404,905,2 2005,1859,2067,1888,7 1981,1901,2047,1920,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000016.jpg 1383,692,1612,799,0 510,3086,572,3166,7 1591,748,1613,787,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000017.jpg 1763,1182,1845,1227,2 2055,1096,2105,1132,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000018.jpg 1149,956,1374,1087,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000019.jpg 530,347,608,450,7 582,3221,685,3260,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000021.jpg 2378,19,2440,45,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000023.jpg 458,739,590,881,5 2813,40,2857,61,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000025.jpg 1804,2010,1952,2231,7 1779,167,1873,264,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000026.jpg 740,159,808,240,6 2067,2442,2100,2467,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000027.jpg 1044,1469,1254,1775,0 1060,1536,1256,1666,3 1505,566,1534,608,7 457,319,499,348,7 2410,2973,2434,3035,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000028.jpg 1050,2077,1555,2484,0 1050,2383,1123,2483,1 1212,2458,1271,2537,7 1279,2486,1307,2545,7 1152,463,1425,691,2 1270,118,1299,171,7 1383,46,1438,79,7 1410,642,1474,682,7 1298,540,1377,586,7 1400,240,1489,285,6 1421,309,1489,353,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000029.jpg 1320,285,1356,353,7 1297,420,1445,698,2 1327,1079,1405,1144,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000030.jpg 1210,911,1374,1261,0 1309,912,1365,943,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000031.jpg 1327,1291,1428,1387,1 1274,1379,1326,1470,7 1853,756,1903,870,7 1886,648,1916,725,7 538,1990,655,2081,7 472,2038,547,2116,7 575,1854,714,1941,7 394,2051,487,2156,7 2147,382,2199,426,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000033.jpg 888,710,1146,922,0 1174,670,1196,704,7 1463,426,1489,468,7 132,1372,327,1444,3 351,1690,411,1725,7 10,2000,113,2048,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000034.jpg 1747,538,1902,682,2 2321,2300,2416,2341,7 1503,944,1543,968,7 50,1684,111,1724,7 430,1855,454,1903,7 968,2200,1033,2245,7 1116,2041,1192,2115,3 1335,2430,1461,2554,6 4,1786,44,1829,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000035.jpg 1141,269,1190,346,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000040.jpg 1296,1905,1632,2175,0 1292,2108,1350,2178,1 2034,233,2174,401,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000041.jpg 1129,735,1486,1033,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000042.jpg 319,1168,419,1196,0 1672,1164,1831,1219,0 2431,1163,2487,1192,5 2547,1182,2596,1198,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000043.jpg 1646,1083,2062,1211,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000044.jpg 1389,1553,1769,1754,5 1418,1700,1443,1739,7 620,1510,784,1655,6 1259,116,1291,142,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000045.jpg 1224,1334,1413,1399,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000046.jpg 2440,996,2484,1048,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000047.jpg 2514,1176,2643,1326,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000048.jpg 1750,1768,2356,1949,0 1747,1836,1777,1898,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000049.jpg 723,1229,1060,1514,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000051.jpg 2108,392,2267,430,6 1729,1598,2269,1826,0 884,1826,950,1869,7 854,688,1001,746,6 1458,1323,1569,1422,6 1297,1873,1326,1903,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000052.jpg 211,1412,264,1433,7 448,1340,632,1405,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000053.jpg 2140,1088,2282,1137,0 2603,1165,2639,1177,7 699,1274,740,1290,3 2033,1151,2057,1166,3 2440,1314,2480,1338,7 2993,1353,3021,1371,6 1494,1028,1560,1055,6 772,1008,826,1075,7 426,1235,461,1248,7 163,1054,212,1095,3 2009,1301,2039,1320,7 2625,1372,2683,1399,6 2733,1030,2850,1072,6 2989,1127,3027,1146,6 2965,1229,3042,1256,6 2214,1034,2263,1052,6 1574,1058,1609,1076,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000055.jpg 652,592,691,628,6 211,747,301,785,6 585,698,622,728,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000056.jpg 489,614,761,739,4 319,645,390,703,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000057.jpg 588,966,613,994,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000058.jpg 544,695,712,853,5 597,930,625,951,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000059.jpg 696,683,735,735,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000060.jpg 527,873,667,946,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000061.jpg 562,801,659,995,0 917,0,943,17,7 678,718,703,784,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000063.jpg 598,807,629,818,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000064.jpg 717,1188,747,1211,3 470,1189,490,1205,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000065.jpg 229,1020,296,1078,6 1518,1823,1544,1884,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000066.jpg 808,1671,1098,2062,2 1649,314,1983,745,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000067.jpg 1275,998,1431,1291,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000069.jpg 2087,1079,2404,1535,0 2098,1078,2145,1108,1 2550,1593,2631,1632,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000071.jpg 2700,954,2882,1188,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000072.jpg 549,2932,765,3166,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000073.jpg 714,2233,782,2311,7 930,1877,999,1918,7 602,2880,727,2915,7 407,2756,514,2818,7 1021,1648,1070,1688,7 1141,1642,1211,1681,7 783,3156,843,3241,7 1121,1188,1143,1246,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000074.jpg 1439,1698,1543,1885,2 1235,1057,1420,1194,2 1317,1275,1409,1465,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000075.jpg 736,1703,1324,2329,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000076.jpg 675,1810,979,1965,0 675,1918,708,1966,1 767,2027,812,2044,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000077.jpg 1405,1578,1589,1724,0 1556,1691,1590,1725,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000079.jpg 449,2448,676,2663,6 507,2215,576,2278,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000080.jpg 173,376,242,401,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000083.jpg 940,1325,1123,1420,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000084.jpg 760,1956,812,1989,7 1565,2673,1633,2777,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000085.jpg 835,1831,1024,2454,0 885,2377,987,2454,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000087.jpg 803,2011,1130,2402,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000088.jpg 1014,1996,1210,2353,0 965,2562,1179,2949,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000089.jpg 1850,3387,2251,3613,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000090.jpg 529,1395,582,1428,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000091.jpg 2054,1943,2254,2219,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000094.jpg 1239,2556,1344,2636,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000095.jpg 671,2391,1387,2736,2 536,3535,638,3657,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000097.jpg 657,1018,986,1251,2 1082,1279,1395,1632,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_8_000098.jpg 1881,1677,2233,2217,4 1966,2154,1987,2215,7 1918,1339,1975,1393,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000000.jpg 1151,1778,1297,1851,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000001.jpg 2371,808,2453,831,7 2333,913,2733,1362,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000002.jpg 1071,2281,1629,2598,4 717,3194,781,3254,5 2397,1545,2443,1578,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000003.jpg 1044,1096,1383,1418,4 697,231,749,296,6 1421,1054,1491,1095,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000004.jpg 548,2387,613,2446,7 2341,1265,2621,1666,0 1856,958,1891,987,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000005.jpg 1198,1063,1643,1376,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000006.jpg 1291,1280,1675,1558,4 2025,1581,2118,1636,6 272,6,443,208,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000007.jpg 1397,1453,1977,1867,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000008.jpg 1133,1511,1268,1638,1 409,1632,469,1688,6 82,1214,685,1480,0 0,1129,155,1245,0 101,1185,159,1250,1 0,1553,127,2400,0 0,428,191,584,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000010.jpg 17,345,93,543,6 1504,1298,1908,1440,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000011.jpg 1162,979,1383,1290,4 1985,1447,2067,1515,7 1644,1050,1682,1130,7 1683,400,1785,490,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000012.jpg 1374,1270,1644,1523,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000013.jpg 1748,1230,1816,1362,6 3119,2332,3151,2399,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000014.jpg 1460,1498,1918,1809,5 2065,1373,2653,1576,5 1876,1422,2086,1613,3 3030,2124,3200,2223,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000016.jpg 1629,2461,1692,2534,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000017.jpg 1311,1461,1642,1852,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000018.jpg 958,2139,1624,2635,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000020.jpg 2278,2268,2442,2348,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000022.jpg 1123,964,1396,1171,4 2118,1648,2312,1858,7 2711,1944,2787,2012,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000023.jpg 2056,1596,2207,1721,3 2078,1928,2123,2017,3 750,1035,1061,1232,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000024.jpg 813,2307,1721,2824,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000025.jpg 715,1442,1115,1763,5 1074,3038,1263,3230,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000026.jpg 1547,2099,1668,2217,1 1524,2026,1647,2066,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000028.jpg 1609,2564,1632,2631,7 1966,2062,2021,2128,7 1317,2127,1644,2292,4 1186,867,1332,1137,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000029.jpg 1269,2918,1403,3030,7 926,2028,1199,2246,3 1569,2641,1633,2717,6 2105,103,2157,214,7 437,505,550,583,6 1662,2403,1920,2666,6 2379,1151,2405,1246,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000030.jpg 873,2352,1127,2609,4 1532,1806,1641,1905,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000031.jpg 1195,1514,1465,1747,4 1220,1908,1462,2171,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000032.jpg 681,1710,1733,2520,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000035.jpg 1354,2106,1474,2339,4 2150,2127,2192,2143,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000036.jpg 1240,1059,1376,1210,4 945,2420,1029,2697,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000037.jpg 1405,1855,1489,1938,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000038.jpg 1055,1088,1254,1305,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000039.jpg 1216,1503,1346,1612,3 1681,3144,1770,3206,7 1125,2066,1187,2143,7 1817,35,1864,108,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000041.jpg 1541,1878,1695,2370,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000042.jpg 1053,1320,1257,1531,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000043.jpg 1309,2047,1688,2298,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000044.jpg 1192,1317,1524,1690,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000045.jpg 623,1655,978,2052,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000046.jpg 560,1891,1239,2117,4 1403,1376,1543,1672,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000047.jpg 844,2285,1029,2476,4 917,1145,1236,1478,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000048.jpg 110,1969,254,2044,3
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000049.jpg 1319,1264,1936,1758,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000050.jpg 1508,2221,1689,2338,6 1605,2198,1724,2254,6 2730,2226,2821,2273,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000051.jpg 413,253,468,311,6 932,888,948,911,7 950,884,991,924,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000052.jpg 1402,912,1463,945,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000053.jpg 736,1343,879,1500,7 1835,2202,1945,2231,7 1966,2071,2023,2119,7 1819,1868,1872,1892,7 2077,1836,2111,1897,4 1788,2025,1997,2200,6 2921,1983,2963,2056,7 1813,1651,1830,1690,7 747,1781,797,1820,7 3019,2418,3072,2446,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000054.jpg 2312,1156,2345,1212,7 623,1431,682,1466,7 186,2311,211,2387,7 2519,1293,2550,1362,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000056.jpg 919,1680,1188,1957,5 1795,123,1897,226,3 354,1848,477,1991,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000057.jpg 1377,1316,1722,1498,4 2677,1571,2719,1634,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000058.jpg 561,1494,750,1646,4 257,2986,375,3081,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000060.jpg 560,2513,751,2755,5 707,2180,798,2261,4 1323,1470,1392,1540,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000061.jpg 1078,1298,1258,1459,5 1191,1238,1230,1296,7 1288,1069,1335,1114,7 1409,574,1454,631,7 466,2320,550,2426,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000062.jpg 1625,477,1915,654,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000063.jpg 342,2915,411,3049,4 93,1702,157,1826,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000064.jpg 1249,1082,1442,1260,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000065.jpg 2272,53,2313,111,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000066.jpg 225,2260,372,2304,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000067.jpg 763,2068,1443,2547,0 1352,2435,1446,2546,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000068.jpg 996,1970,1250,2148,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000070.jpg 1277,592,1386,621,6 822,1317,1132,1458,0 821,1415,842,1445,1 105,1393,127,1435,4 282,1767,353,1817,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000071.jpg 1083,2470,1269,2961,0 1586,2447,1702,2641,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000072.jpg 1788,938,1948,1058,3 2132,526,2516,594,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000073.jpg 757,2359,1020,2565,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000074.jpg 1333,1916,1412,2005,0 778,2012,829,2041,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000075.jpg 1138,1993,1229,2077,0 652,3729,744,3836,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000077.jpg 1594,1403,1662,1464,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000078.jpg 355,3492,420,3551,7 674,3206,737,3316,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000079.jpg 775,1350,800,1371,1 973,1626,1058,1734,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000080.jpg 725,2482,778,2498,7 1084,2720,1137,2762,7 798,3165,863,3193,7 675,2849,876,3085,4 813,2240,840,2262,4 730,1044,751,1061,7 732,3565,751,3627,7 1680,3451,1719,3529,7 1390,3773,1428,3839,7 278,2497,329,2523,7 588,1524,613,1559,6 1183,1444,1210,1477,7 1569,3198,1604,3245,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000081.jpg 1567,1722,1697,1823,3 954,2147,1061,2355,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000082.jpg 1470,888,1643,1057,5
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000083.jpg 719,1199,1213,1908,2
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000084.jpg 1008,1778,1318,1985,0 808,1941,1102,2064,0 1261,1923,1321,1982,1 549,1898,698,2080,6 31,2985,371,3250,6 1301,2148,1381,2224,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000085.jpg 1196,780,1238,804,7 62,1687,127,1726,7 1553,711,1608,729,7 1600,685,1631,713,7
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000088.jpg 964,1145,1096,1249,6 775,2076,811,2101,7 866,2092,904,2111,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000089.jpg 960,3351,1048,3435,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000092.jpg 671,2067,773,2284,0
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000093.jpg 327,2565,372,2603,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000094.jpg 2258,766,2622,1001,0 3590,704,3783,784,4
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000095.jpg 435,1439,514,1493,6 401,1846,576,1939,6 189,2782,336,2867,5 548,3675,629,3847,5 614,3712,707,3871,6 1042,1165,1167,1237,6
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000098.jpg 1041,1721,1182,1859,1
+/Users/mac/Documents/GitHub/yolo3-pytorch/data/taco/images/batch_9_000099.jpg 862,1331,1368,1943,5
